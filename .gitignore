@@ -1,2 +1,5 @@
 # venv
 venv
+
+# enviroment file
+app/.env
